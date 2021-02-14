@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1613325853 source:c:\users\kiit\desktop\democalci\calc_geo.c
+	"Calc_geo.h"
+
+1613288821 source:c:\users\kiit\desktop\democalci\calc_pnc.c
+	"Calc_pnc.h"
+
+1613326019 c:\users\kiit\desktop\democalci\calc_pnc.h
+	<stdio.h>
+
+1613325779 source:c:\users\kiit\desktop\democalci\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calc_pnc.h"
+	"Calc_geo.h"
+
+1613326019 c:\users\kiit\desktop\democalci\calc_geo.h
+	<stdio.h>
+
